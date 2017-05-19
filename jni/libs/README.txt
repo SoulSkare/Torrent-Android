@@ -1,0 +1,1 @@
+unzip for so file
