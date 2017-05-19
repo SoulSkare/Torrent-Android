@@ -1,4 +1,4 @@
-HelloLibtorrent
+Torrent client for android
 ===============
 
 This is a basic setup to test libtorrent on android.
